@@ -35,9 +35,9 @@ $ python3 tests.py
 
 For execution on a Docker container:
 
--Clone this repository in your computer
--Navigate to the project root folder - podiumAssessment
--Execute the command 'docker build -t podiumtest . && docker run -it podiumtest'
+- Clone this repository in your computer
+- Navigate to the project root folder - podiumAssessment
+- Execute the command 'docker build -t podiumtest . && docker run -it podiumtest'
 
 ```sh
 $ git clone https://github.com/celsolr/podiumAssessment.git
